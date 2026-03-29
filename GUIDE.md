@@ -270,5 +270,5 @@ Anthropic's tool use documentation states: **"Descriptions are by far the most i
 - [Anthropic — Define Tools](https://platform.claude.com/docs/en/agents-and-tools/tool-use/define-tools)
 - [Anthropic — Writing Tools for Agents](https://www.anthropic.com/engineering/writing-tools-for-agents)
 - [Lightning Labs — 10 Agent-CLI Design Axes](https://github.com/lightninglabs/lnget/pull/14)
-- [Berkeley Function Calling Leaderboard V4](https://gorilla.cs.berkeley.edu/leaderboard.html)
 - [InfoQ — Patterns for AI Agent Driven CLIs](https://www.infoq.com/articles/ai-agent-cli/)
+- [Berkeley Function Calling Leaderboard V4](https://gorilla.cs.berkeley.edu/leaderboard.html)
